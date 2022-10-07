@@ -1,5 +1,7 @@
 # Rest-Api-Using-Spring-Boot
 
+#### Note : create a database in MySQL with the same name given in application.properties file and then run the program, the table will be automatically generated.
+
 ## Below are the screenshots of CRUD operations performed using MySQL and Postman
 
 ### Fetch All Students Data
