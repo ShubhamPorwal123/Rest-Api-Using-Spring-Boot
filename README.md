@@ -1,6 +1,6 @@
 # Rest-Api-Using-Spring-Boot
 
-## Below are the screenshots of operations performed using MySQL and Postman
+## Below are the screenshots of CRUD operations performed using MySQL and Postman
 
 ### Fetch All Students Data
 ![fetchAllStudents](https://user-images.githubusercontent.com/75979160/194551172-aa4c8ff9-6d44-4364-a8e1-7a3b3ee0aa42.PNG)
