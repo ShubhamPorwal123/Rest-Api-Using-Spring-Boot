@@ -1,4 +1,4 @@
-# Rest-Api-Using-Spring-Boot
+# RestApiUsingSpringBoot
 
 #### Note : create a database in MySQL with the same name given in application.properties file and then run the program, the table will be automatically generated.
 
